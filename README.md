@@ -8,13 +8,13 @@ good luck
 
 
 
-# courses: 
+## courses: 
 
-Markdown ASAP
+**Markdown ASAP**
 
 Python
 
 HTML/CSS
 
-Java
+**Java**
 
